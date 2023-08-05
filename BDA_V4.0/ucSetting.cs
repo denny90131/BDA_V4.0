@@ -83,6 +83,7 @@ namespace BDA_V4._0
             clsGlobe.Memory_.a.Clear();
             clsGlobe.Memory_.b.Clear();
             clsGlobe.Memory_.c.Clear();
+            clsGlobe.Memory_.d.Clear();
             dataGridView1.DataSource = dt;
             dataGridView1.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.AllCells;
         }
